@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color:#011a58 ; 
+}
+
+#algo-showcase{
+    background-image: url(/Images/download\ \(2\).png);
+    background-color: #1f349d;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+.fw-bold{
+    font-size: 50px;
+}
+#what-is{
+    height: 60vh;
+    background-color: #c2dbea;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#problem{
+    height: 150vh;
+    background-color: #153596;
+}
+#documentation{
+    height: 95vh;
+    background-color: #c2dbea;
+}
+#roadmap{
+    height: 80vh;
+    background-color: #153596;
+}
+#our-token{
+    height: 85vh;
+    background-color: #043866;
+}
+#token-distribution{
+    height: 80vh;
+    background-color: #c2dbea;
+}
+footer{
+    height: 35vh;
+    background-color: #011a58;
+}

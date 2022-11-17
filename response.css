@@ -1,0 +1,62 @@
+@media screen and (max-width:540px){
+    #algo-showcase{
+        height: auto !important;
+        padding-bottom: 20px !important;
+    }
+    #algo-showcase .col h2 {
+        font-size: 1.8rem !important;
+        text-align: center !important;
+        line-height: 1.8rem !important;
+    }
+    #algo-showcase .col p{
+        text-align: center !important;
+    }
+    #algo-showcase .col a{
+        margin-left: 5em !important;
+    }
+    #algo-showcase .col a button{
+        padding: 10px 30px !important;
+    }
+    .image1{
+        width: 290px !important;
+        margin-left: 10px !important;
+    }
+    #what-is{
+        height: auto !important;
+        padding: 30px 0px !important;
+    }
+    #problem{
+        height: auto !important;
+    }
+    #problem h3{
+        text-align: center !important;
+        padding-top: 20px !important;
+    }
+    #documentation{
+        height: auto !important;
+    }
+    #roadmap{
+        height: auto !important;
+    }
+    #our-token{
+        height: auto !important;
+    }
+    #our-token h3{
+        padding:30px 0px !important;
+        text-align: center;
+    }
+    #token-distribution{
+        height: auto !important;
+    }
+    footer{
+        height: auto !important;   
+    }
+    footer p{
+        text-align: center !important;
+        width: 100% !important;
+    }
+    .footer-text{
+        padding-bottom: 30px !important;
+    }
+    
+}
